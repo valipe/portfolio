@@ -12,6 +12,11 @@ export default {
       title: 'Name'
     },
     {
+      name: 'description',
+       type: 'bioPortableText',
+      title: 'Description'
+    },
+    {
       name: 'slug',
       type: 'slug',
       title: 'Slug',
